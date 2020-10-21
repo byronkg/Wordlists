@@ -1,1 +1,2 @@
 # Wordlists
+    Mime Types
