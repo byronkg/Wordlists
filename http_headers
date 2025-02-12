@@ -67,6 +67,15 @@
 509 Bandwidth Limit Exceeded
 510 Not Extended
 511 Network Authentication Required
+520 Web Server Returned an Unknown Error
+521 Web Server Is Down
+522 Connection Timed Out
+523 Origin Is Unreachable
+524 A Timeout Occurred
+525 SSL Handshake Failed
 526 Invalid SSL Certificate
+527 Railgun Error
 529 Site is Overloaded
 530 Site is Frozen
+598 Network read timeout error 
+599 Network connect timeout error
